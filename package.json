@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "d3": "^5.14.2",
+    "d3-canvas-transition": "^0.3.7",
     "parcel": "1.12.4"
   },
   "devDependencies": {
