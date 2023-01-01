@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "d3": "^5.14.2",
-    "parcel": "1.12.4",
+    "parcel": "2.8.2",
     "parcel-plugin-inliner": "^1.0.10"
   },
   "devDependencies": {
